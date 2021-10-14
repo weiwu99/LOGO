@@ -1,0 +1,3 @@
+# the most basic logo command possible
+tell 1 turtle
+fd 50

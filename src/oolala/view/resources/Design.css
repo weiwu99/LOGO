@@ -1,0 +1,40 @@
+.root {
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-background-color: #ffcc99;
+    text_color: black;
+}
+
+.menu-bar {
+    -fx-max-width: 10;
+}
+
+.button-box {
+    -fx-alignment: center;
+    -fx-spacing: 8px;
+}
+
+.button {
+    -fx-text-fill: text_color;
+    -fx-background-color: lightgray;
+    -fx-padding: 10px;
+    -fx-border-style: solid;
+    -fx-border-color: black;
+}
+
+.label {
+    -fx-text-fill: text_color;
+    -fx-alignment: center;
+    -fx-min-width: 200px;
+    -fx-padding: 10px;
+}
+
+.text-field {
+    -fx-text-fill: text_color;
+    -fx-background-color: white;
+    -fx-min-width: 200px;
+}
+
+.canvas {
+    -fx-background-color: floralwhite;
+    -fx-border-style: solid;
+}

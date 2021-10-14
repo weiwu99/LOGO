@@ -1,0 +1,13 @@
+tell 1 turtle1
+fd 50
+rt 90
+stamp
+tell 1 turtle2
+bk 50
+rt 90
+stamp
+tell 2 turtle1 turtle2
+fd 50
+stamp
+fd 50
+fd 50

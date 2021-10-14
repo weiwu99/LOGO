@@ -1,0 +1,27 @@
+# draw a dashed line
+tell 1 turtle
+rt 60
+fd 10
+pu
+fd 10
+pd
+fd 10
+pu
+fd 10
+pd
+fd 10
+pu
+fd 10
+pd
+fd 10
+pu
+fd 10
+pd
+fd 10
+pu
+fd 10
+pd
+fd 10
+pu
+fd 10
+pd
